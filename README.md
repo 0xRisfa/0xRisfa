@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm 0xRisfa! 👋
 
-<!--
-**0xRisfa/0xRisfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Computer Science (Tehnik Računalništva) student with a passion for coding and building meaningful projects. Here's a bit about me:
 
-Here are some ideas to get you started:
+## 👨‍💻 What I Do
+- **Languages:** Java (my favorite!), HTML, CSS, JavaScript, SQL, and PL/SQL.
+- **Web Development:** I can create websites with HTML, CSS, and JavaScript.
+- **Backend Development:** Experienced in Java with Maven for building scalable applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Current Project
+I'm currently working on a **full-stack chatting website**:
+- **Frontend:** Basic HTML, CSS, and JavaScript for a clean and simple user interface.
+- **Backend:** Java with Maven to handle all the server-side magic.
+
+Stay tuned for updates—I’m excited to share it soon!
+
+## 📫 Let's Connect
+Feel free to explore my repositories and reach out if you’d like to collaborate or discuss coding projects. I'm always open to learning and sharing knowledge!
+
+---
+Thanks for stopping by! 😊
