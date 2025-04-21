@@ -1,4 +1,4 @@
-# Hi, I'm 0xRisfa! 👋
+# Hi, I'm Faris! 👋
 
 Welcome to my GitHub profile! I'm a Computer Science (Tehnik Računalništva) student with a passion for coding and building meaningful projects. Here's a bit about me:
 
